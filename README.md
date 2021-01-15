@@ -21,6 +21,6 @@ Olá, eu sou o Herbert.  :vulcan_salute:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="rails" width="35" height="35" style="max-width:100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="rails" width="35" height="35" style="max-width:100%;"></img>
  
- 
- ## --
+  ##
 [![hbtfsilva's github stats](https://github-readme-stats.vercel.app/api?username=hbtfsilva&show_icons=true&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbtfsilva&layout=compact&show_icons=true&count_private=true&theme=radical)
