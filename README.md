@@ -3,7 +3,7 @@ Olá, eu sou o Herbert.  :vulcan_salute:
 - :books:   Atualmente estou estudando e aprendendo muito.
 - :family_woman_woman_boy_boy: Procuro colaborar com outros criadores de conteúdo.
 
-## Conecte-se a mim:
+## Conecte-se comigo:
 
 <a href="https://www.linkedin.com/in/herbert-f-silva-33567153/" target="_blank">
   <img align="center" alt="herbert-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%:">
@@ -23,4 +23,4 @@ Olá, eu sou o Herbert.  :vulcan_salute:
  
   ##
 [![hbtfsilva's github stats](https://github-readme-stats.vercel.app/api?username=hbtfsilva&show_icons=true&count_private=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbtfsilva&layout=compact&show_icons=true&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbtfsilva&layout=compact&show_icons=true&count_private=true&theme=radical&width="60")
