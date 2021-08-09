@@ -15,8 +15,7 @@ Olá, eu sou o Herbert.  :vulcan_salute:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="rails" width="35" height="35" style="max-width:100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="rails" width="35" height="35" style="max-width:100%;"></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="rails" width="35" height="35" style="max-width:100%;"></img>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="rails" width="35" height="35" style="max-width:100%;"></img>
- 
+  
  ## Distribuições: 
  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="rails" width="30" height="30" style="max-width:100%;"></img>
